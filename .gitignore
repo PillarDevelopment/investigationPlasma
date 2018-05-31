@@ -1,2 +1,6 @@
 *.DS_Store
 *.pdf
+/plasma/
+/Plasma bankex/
+/PlasmaContract/
+/PlasmaTest/
